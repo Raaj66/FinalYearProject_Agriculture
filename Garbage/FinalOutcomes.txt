@@ -1,0 +1,5 @@
+from 1st api for anantha pura
+temp_min': 299.7, 'temp_max': 299.7 humidity': 64  'pressure': 1008.72
+'coord': {'lat': 14.68, 'lon': 77.61}
+clouds': {'all': 99}, 'wind': {'deg':257.759, 'speed': 9.12}
+weather': [{'main': 'Clouds', 'icon': '04n', 'id': 804, 'description': 'overcast clouds'}]}
